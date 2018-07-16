@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    /* Basic Options */
+    "target": "es5",
+    "module": "esnext",
+    "lib": [ "dom", "es2018" ],
+    "jsx": "react",
+    "sourceMap": true,
+    "declaration": true,
+    "outDir": "./dist/",
+    "importHelpers": true,
+
+    /* Strict Type-Checking Options */
+    "strict": true,
+
+    /* Additional Checks */
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+
+    /* Module Resolution Options */
+    "moduleResolution": "node",
+
+    /* Experimental Options */
+    "experimentalDecorators": true,
+    "skipLibCheck": true,
+    "pretty": true,
+  }
+}

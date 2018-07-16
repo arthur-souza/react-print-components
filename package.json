@@ -1,0 +1,38 @@
+{
+  "name": "react-print-components",
+  "description": "Print specific react components in the browser.",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "component",
+    "print",
+    "react-print-components"
+  ],
+  "main": "src/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": "git@github.com:arthur-souza/react-print-components.git",
+  "homepage": "https://github.com/arthur-souza/react-print-components#readme",
+  "bugs": {
+    "url": "https://github.com/arthur-souza/react-print-components/issues"
+  },
+  "author": "Arthur Souza <arthur@arthursouza.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.4.6",
+    "@types/react-dom": "^16.0.6",
+    "np": "^3.0.4",
+    "prettier": "^1.13.7",
+    "tslint": "^5.10.0",
+    "typescript": "^2.9.2"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "scripts": {
+    "build": "tsc",
+    "release": "np"
+  }
+}
