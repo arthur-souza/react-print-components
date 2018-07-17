@@ -22,6 +22,7 @@
     "@types/react-dom": "^16.0.6",
     "np": "^3.0.4",
     "prettier": "^1.13.7",
+    "tslib": "^1.9.3",
     "tslint": "^5.10.0",
     "typescript": "^2.9.2"
   },
