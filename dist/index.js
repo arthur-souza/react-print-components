@@ -1,6 +1,8 @@
-import * as tslib_1 from "tslib";
-import * as React from 'react';
-import * as ReactDOM from 'react-dom';
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var tslib_1 = require("tslib");
+var React = require("react");
+var ReactDOM = require("react-dom");
 var PrintComponents = /** @class */ (function (_super) {
     tslib_1.__extends(PrintComponents, _super);
     function PrintComponents(props) {
@@ -38,6 +40,6 @@ var PrintComponents = /** @class */ (function (_super) {
     };
     return PrintComponents;
 }(React.Component));
-export { PrintComponents };
-export default PrintComponents;
+exports.PrintComponents = PrintComponents;
+exports.default = PrintComponents;
 //# sourceMappingURL=index.js.map

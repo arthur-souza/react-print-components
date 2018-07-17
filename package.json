@@ -8,8 +8,7 @@
     "print",
     "react-print-components"
   ],
-  "main": "src/index.js",
-  "module": "dist/index.js",
+  "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": "git@github.com:arthur-souza/react-print-components.git",
   "homepage": "https://github.com/arthur-souza/react-print-components#readme",
