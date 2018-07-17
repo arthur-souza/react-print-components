@@ -1,7 +1,7 @@
 {
   "name": "react-print-components",
   "description": "Print specific react components in the browser.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "keywords": [
     "react",
     "component",
